@@ -1,2 +1,2 @@
 # natas
-OvertheWire Natas solutions
+OvertheWire Natas redacted solutions
