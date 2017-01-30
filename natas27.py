@@ -2,7 +2,7 @@
 import requests
 
 target = 'http://natas27.natas.labs.overthewire.org/index.php'
-auth = ('natas27','<redactred>')
+auth = ('natas27','<redacted>')
 
 print '[+] Starting..'
 
